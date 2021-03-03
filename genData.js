@@ -12,10 +12,10 @@ const TREATMENTS = [
 
 const TREATMENT_COEFF = {
   "Vitamin C": { tox: 0, eff: 0 },
-  Tamaflu: { tox: 1, eff: 0.1 },
+  "Tamaflu": { tox: 1, eff: 0.1 },
   "Healing Potion": { tox: 1, eff: 0.2 },
   "Positive Thoughts": { tox: 0, eff: -0.1 },
-  Bleach: { tox: 2, eff: -0.2 },
+  "Bleach": { tox: 2, eff: -0.2 },
 };
 
 const INIT_SYPM = [1, 2];
